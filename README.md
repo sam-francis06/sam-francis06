@@ -8,6 +8,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sam-francis06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sam-francis06&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
+</p>
+
 ###
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV0bGdpZWI4ajJzdGJmOXl1bHFhbzZmM2R4Z2JoOTk4Z2xqZDdraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNssW1DvTEXtll108b/giphy.gif"  />
