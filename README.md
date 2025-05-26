@@ -12,9 +12,9 @@
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV0bGdpZWI4ajJzdGJmOXl1bHFhbzZmM2R4Z2JoOTk4Z2xqZDdraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNssW1DvTEXtll108b/giphy.gif" height="180" alt="Coding GIF" />
 
 - 🎓 2nd-year B.Tech Information Technology Student (Graduating 2027)  
-- 🌐 Creator of [**CyberCouncil**](https://ai-cybercounsel.com) – AI-powered cybersecurity & legal support platform  
+- 🌐 Creator of [**Cyber Council**](https://cybercouncil.netlify.app) – A full-stack cybersecurity awareness and legal support platform  
 - 🕵️‍♂️ Developer of **CyberReconX** – Advanced CLI-based cyber recon tool  
-- 🤖 Building AI assistants for cyber law & digital forensics  
+- 🤖 Created a keyword-based Cyber Law Chatbot using HTML, CSS, and JS; planning to expand it into an AI-powered assistant  
 - ✈️ Aiming for a Master's in Cybersecurity/AI in Europe  
 - 💬 Ask me about web security, pentesting, ethical hacking, and AI for law enforcement  
 
