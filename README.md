@@ -14,7 +14,7 @@
 - 🎓 2nd-year B.Tech Information Technology Student (Graduating 2027)  
 - 🌐 **Lead Developer of [Cyber Council](https://cybercouncil.netlify.app)** – A full-stack cybersecurity awareness and legal support platform, built with contributions from **Lohitha** (UI Design) and **Guhan** (Supabase & Database Integration)  
 - 🕵️‍♂️ Developer of **CyberReconX** – Advanced CLI-based cyber recon tool  
-- 🤖 Created a keyword-based Cyber Law Chatbot using HTML, CSS, and JS; planning to expand it into an AI-powered assistant  
+- 🤖 Created a keyword-based [Cyber Laws Chatbot](https://sam-francis06.github.io/Chatbot/) using HTML, CSS, and JS; planning to expand it into an AI-powered assistant  
 - ✈️ Aiming for a Master's in Cybersecurity/AI in Europe  
 - 💬 Ask me about web security, pentesting, ethical hacking, and AI for law enforcement  
   
