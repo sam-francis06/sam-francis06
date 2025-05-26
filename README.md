@@ -62,23 +62,23 @@
 ## 🔗 Connect with Me   
 
 <p align="center">
-    <a href="www.linkedin.com/in/francis-samuvel-a0a536293" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/francis-samuvel-a0a536293" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
   <a href="https://medium.com/@samfrancissam06" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo" />
   </a>
   <a href="https://tryhackme.com/p/samfrancissam06" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo" />
   </a>
   <a href="https://www.instagram.com/sam_francis_06/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
   </a>
-  <a href="@Samfrancis06" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  <a href="https://t.me/Samfrancis06" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo" />
   </a>
   <a href="http://wa.me/+918300496804" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo" />
   </a>
 </p>
 
@@ -89,3 +89,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sam-francis06/sam-francis06/output/snake.svg" alt="Snake animation" />
 </p>
+
+---
+
+## 🎉 Fun Facts About Me
+
+- 🐧 I prefer the terminal over the mouse — Linux > Windows!
+- 🎯 I once debugged a full-stack bug at 3 AM with just black coffee and instinct.
+- 🔐 I love CTFs (Capture The Flag) and solving them feels like digital treasure hunting 🕵️‍♂️💻.
+- 🧠 I talk to my AI chatbot like it’s my coding partner sometimes 😄.
+- 🎬 I enjoy tech documentaries and hacker movies – *Mr. Robot* is 🔥.
+- 🚀 My dream is to build something that helps law enforcement fight cybercrime smarter.
+
