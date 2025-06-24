@@ -6,6 +6,8 @@
   Passionate about building impactful projects that merge technology, law, and digital security.
 </p>
 
+![](https://komarev.com/ghpvc/?username=sam-francis06&color=green)
+
 ---
 
 ## 🚀 About Me
