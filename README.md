@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV0bGdpZWI4ajJzdGJmOXl1bHFhbzZmM2R4Z2JoOTk4Z2xqZDdraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNssW1DvTEXtll108b/giphy.gif" height="180" alt="Coding GIF" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanllbHJpMGxzbnczZnU2ZnJ1Ym44ZjJkOTRnMGF3bGhlYXowZ2F6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" height="180" alt="Coding GIF" />
 
 - 🎓 3rd-year B.Tech Information Technology Student (Graduating 2027)  
 - 🌐 **Lead Developer of [Cyber Council](https://cybercouncil.netlify.app)** – A full-stack cybersecurity awareness and legal support platform, built with contributions from **Lohitha** (UI Design) and **Guhan** (Supabase & Database Integration)  
