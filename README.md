@@ -6,7 +6,14 @@
   Passionate about building impactful projects that merge technology, law, and digital security.
 </p>
 
-![](https://komarev.com/ghpvc/?username=sam-francis06&color=green)
+<div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=sam-francis06&color=green)
+  ![GitHub followers](https://img.shields.io/github/followers/sam-francis06?label=Followers&style=social)
+
+</div>
+
+
 
 ---
 
